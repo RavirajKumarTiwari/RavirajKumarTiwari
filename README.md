@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ravi Tiwari</h1>
-<h3 align="center">I am a second year Undergard persuing B.Tech in Electronics and communication at Haldia Institute of Technology.</h3>
+<h1 align="center">Hi 👋, I'm Raviraj Kumar</h1>
+<h3 align="center">🏫 I am a second year Undergrad persuing B.Tech in Electronics and communication at Haldia Institute of Technology.</h3>
+<h2></a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
+ <img align='right' src="https://media.giphy.com/media/XGmwiw4CkjtAIU3b0z/giphy.gif" width="250"> 
+ 
+- 🔭  I’m currently improving my competitive programming skills and learning javascript
+- 📫 How to reach me: ravirajk545@gmail.com
+- 🎯 2022 Goal is to contribute  in open source.
+- 😄 Pronouns: he/his
+- 🎈 Fun Fact: I love gaming.
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravirajkumartiwari&label=Profile%20views&color=0e75b6&style=flat" alt="ravirajkumartiwari" /> </p>
 
